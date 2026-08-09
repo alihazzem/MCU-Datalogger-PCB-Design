@@ -2596,7 +2596,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 62.865 121.285 0)
 			(hide yes)
 			(show_name no)
@@ -2696,7 +2696,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 96.393 53.975 90)
 			(hide yes)
 			(show_name no)
@@ -2787,7 +2787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 148.2852 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -2868,7 +2868,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 116.332 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -2950,7 +2950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 109.093 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -3042,7 +3042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 234.95 38.481 90)
 			(hide yes)
 			(show_name no)
@@ -3157,7 +3157,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 211.455 50.165 0)
 			(hide yes)
 			(show_name no)
@@ -3564,7 +3564,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 160.655 45.085 0)
 			(hide yes)
 			(show_name no)
@@ -3657,7 +3657,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 214.9602 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -3738,7 +3738,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 106.172 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -3820,7 +3820,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 268.605 132.715 0)
 			(hide yes)
 			(show_name no)
@@ -3894,7 +3894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 165.1 33.9598 0)
 			(hide yes)
 			(show_name no)
@@ -3986,7 +3986,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 117.8052 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -4077,7 +4077,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
 			(at 158.75 59.055 0)
 			(hide yes)
 			(show_name no)
@@ -4157,7 +4157,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 144.78 50.038 90)
 			(hide yes)
 			(show_name no)
@@ -4247,7 +4247,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 161.29 79.502 90)
 			(hide yes)
 			(show_name no)
@@ -4329,7 +4329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 210.312 62.23 90)
 			(hide yes)
 			(show_name no)
@@ -4421,7 +4421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 268.605 149.225 0)
 			(hide yes)
 			(show_name no)
@@ -4692,7 +4692,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 148.2852 61.595 0)
 			(hide yes)
 			(show_name no)
@@ -4784,7 +4784,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 268.605 158.115 0)
 			(hide yes)
 			(show_name no)
@@ -4860,7 +4860,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 88.265 121.285 0)
 			(hide yes)
 			(show_name no)
@@ -4959,7 +4959,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
 			(at 38.1 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5041,7 +5041,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 268.605 140.335 0)
 			(hide yes)
 			(show_name no)
