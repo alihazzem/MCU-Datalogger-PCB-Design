@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "235ace28-160a-41f8-85df-4f0daac6ba9d")
+	(uuid "b761d61a-a11d-4ec9-9b99-caf5415b7994")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
@@ -1011,6 +1011,259 @@
 			(embedded_fonts no)
 		)
 	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 149.225 142.875 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "082738ae-33c2-4136-a358-1233e1ebbb1d")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 178.435 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "12c9257d-57b2-4227-a4b1-89b737e9f2aa")
+	)
+	(hierarchical_label "MISO"
+		(shape output)
+		(at 165.735 128.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "24169611-b602-4dd4-a318-d1923c934404")
+	)
+	(hierarchical_label "SCK"
+		(shape passive)
+		(at 165.735 130.81 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "280a4c98-eb84-4f8b-8bf1-0b9e2efea30a")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 171.45 104.775 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "29478e3b-a31e-426c-b87e-0368d4001e2d")
+	)
+	(hierarchical_label "RX"
+		(shape input)
+		(at 171.45 107.315 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "32d2cd1c-64a0-4d5f-a107-345398129ecf")
+	)
+	(hierarchical_label "D7"
+		(shape bidirectional)
+		(at 149.225 135.255 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "330890c7-2344-41a6-9401-560b7919d731")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 148.59 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3c90bc04-1659-4d9e-8f53-327279885ef3")
+	)
+	(hierarchical_label "D2"
+		(shape bidirectional)
+		(at 149.225 122.555 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4292dc8a-86a0-417c-abfa-3f5e44221f74")
+	)
+	(hierarchical_label "RST"
+		(shape passive)
+		(at 165.735 133.35 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "73edc314-503d-4a00-8e27-e32f9089b5d8")
+	)
+	(hierarchical_label "D4"
+		(shape bidirectional)
+		(at 149.225 127.635 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "88c5f83b-976b-47b1-9158-e7b701d9be88")
+	)
+	(hierarchical_label "D6"
+		(shape bidirectional)
+		(at 149.225 132.715 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "90f5b60e-21ba-4f9e-bef2-5dea4c602a2f")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 178.435 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "926ce7fb-9eee-40f7-b331-113466a2325b")
+	)
+	(hierarchical_label "D3"
+		(shape bidirectional)
+		(at 149.225 125.095 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9e26ce3a-a3b2-4c8f-91ad-46d8a9c30511")
+	)
+	(hierarchical_label "D5"
+		(shape bidirectional)
+		(at 149.225 130.175 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b389b6d3-0277-4d6a-872a-f03e04577d3d")
+	)
+	(hierarchical_label "D8"
+		(shape bidirectional)
+		(at 149.225 137.795 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b3e1f419-c4c7-4b7d-aec6-4e3e05c05464")
+	)
+	(hierarchical_label "SDA"
+		(shape bidirectional)
+		(at 148.59 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bde55aa6-f4c3-47ce-b11a-47bca3685f29")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 178.435 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c092a237-8f74-4de1-af9f-484c5b1b5b05")
+	)
+	(hierarchical_label "SCL"
+		(shape passive)
+		(at 148.59 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c55d443a-27dd-48a0-a9b6-02eed161b72b")
+	)
+	(hierarchical_label "TX"
+		(shape output)
+		(at 171.45 109.855 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c83b13ef-6b0b-457b-96dd-c47a01355495")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 171.45 102.235 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d29aa518-4ffc-4363-9e04-ba05acbec71a")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 149.225 140.335 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0cbd7a6-3f3c-4a90-9735-e1d2acfcc6ad")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 148.59 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e694eba1-99ab-41e2-ad3d-c880559537e4")
+	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
 		(at 143.51 105.41 0)
@@ -1117,7 +1370,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24cfacd5-9a0d-432b-a7c1-dee4f9c9d104")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 144.78 117.475 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1210,7 +1463,7 @@
 		(instances
 			(project "MCU Datalogger"
 				(path "/6ab5cb73-b588-47d2-abf7-17ca87af1645/dc577c61-1aa5-4e02-9855-2ed2eccfa9a4"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -1328,7 +1581,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a7a44515-94d6-4190-9596-ef6f57321689")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 167.005 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1406,7 +1659,7 @@
 		(instances
 			(project "MCU Datalogger"
 				(path "/6ab5cb73-b588-47d2-abf7-17ca87af1645/dc577c61-1aa5-4e02-9855-2ed2eccfa9a4"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
